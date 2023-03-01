@@ -1,0 +1,70 @@
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\bin\Debug\SERVER.exe.config
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\bin\Debug\SERVER.exe
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\bin\Debug\SERVER.pdb
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\obj\Debug\SERVER.Form1.resources
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\obj\Debug\SERVER.Properties.Resources.resources
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\obj\Debug\SERVER.exe
+C:\Users\JD lab\Desktop\Socket教材\SERVER\SERVER\obj\Debug\SERVER.pdb
+G:\我的雲端硬碟\JD LAB\手冊\寒訓\視覺-Socket\socket資料\Socket\SERVER(C#)CLIENT(Python)\SERVER\bin\Debug\SERVER.exe.config
+G:\我的雲端硬碟\JD LAB\手冊\寒訓\視覺-Socket\socket資料\Socket\SERVER(C#)CLIENT(Python)\SERVER\bin\Debug\SERVER.exe
+G:\我的雲端硬碟\JD LAB\手冊\寒訓\視覺-Socket\socket資料\Socket\SERVER(C#)CLIENT(Python)\SERVER\bin\Debug\SERVER.pdb
+G:\我的雲端硬碟\JD LAB\手冊\寒訓\視覺-Socket\socket資料\Socket\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+G:\我的雲端硬碟\JD LAB\手冊\寒訓\視覺-Socket\socket資料\Socket\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.Form1.resources
+G:\我的雲端硬碟\JD LAB\手冊\寒訓\視覺-Socket\socket資料\Socket\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.Properties.Resources.resources
+G:\我的雲端硬碟\JD LAB\手冊\寒訓\視覺-Socket\socket資料\Socket\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.csproj.GenerateResource.cache
+G:\我的雲端硬碟\JD LAB\手冊\寒訓\視覺-Socket\socket資料\Socket\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+G:\我的雲端硬碟\JD LAB\手冊\寒訓\視覺-Socket\socket資料\Socket\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.exe
+G:\我的雲端硬碟\JD LAB\手冊\寒訓\視覺-Socket\socket資料\Socket\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.pdb
+G:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\bin\Debug\SERVER.exe.config
+G:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\bin\Debug\SERVER.exe
+G:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\bin\Debug\SERVER.pdb
+G:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+G:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.Form1.resources
+G:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.Properties.Resources.resources
+G:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.csproj.GenerateResource.cache
+G:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+G:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.exe
+G:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.pdb
+F:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\bin\Debug\SERVER.exe.config
+F:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\bin\Debug\SERVER.exe
+F:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\bin\Debug\SERVER.pdb
+F:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+F:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.Form1.resources
+F:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.Properties.Resources.resources
+F:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.csproj.GenerateResource.cache
+F:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+F:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.exe
+F:\我的雲端硬碟\龍門相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.pdb
+F:\我的雲端硬碟\龍門相關\socket相關\SERVER(C#)CLIENT(Python)\SERVER\bin\Debug\SERVER.exe.config
+F:\我的雲端硬碟\龍門相關\socket相關\SERVER(C#)CLIENT(Python)\SERVER\bin\Debug\SERVER.exe
+F:\我的雲端硬碟\龍門相關\socket相關\SERVER(C#)CLIENT(Python)\SERVER\bin\Debug\SERVER.pdb
+F:\我的雲端硬碟\龍門相關\socket相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+F:\我的雲端硬碟\龍門相關\socket相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.Form1.resources
+F:\我的雲端硬碟\龍門相關\socket相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.Properties.Resources.resources
+F:\我的雲端硬碟\龍門相關\socket相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.csproj.GenerateResource.cache
+F:\我的雲端硬碟\龍門相關\socket相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+F:\我的雲端硬碟\龍門相關\socket相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.exe
+F:\我的雲端硬碟\龍門相關\socket相關\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.pdb
+C:\Users\peddy\OneDrive\桌面\SERVER(C#)CLIENT(Python)\SERVER\bin\Debug\SERVER.exe.config
+C:\Users\peddy\OneDrive\桌面\SERVER(C#)CLIENT(Python)\SERVER\bin\Debug\SERVER.exe
+C:\Users\peddy\OneDrive\桌面\SERVER(C#)CLIENT(Python)\SERVER\bin\Debug\SERVER.pdb
+C:\Users\peddy\OneDrive\桌面\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+C:\Users\peddy\OneDrive\桌面\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.Form1.resources
+C:\Users\peddy\OneDrive\桌面\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.Properties.Resources.resources
+C:\Users\peddy\OneDrive\桌面\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\peddy\OneDrive\桌面\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\peddy\OneDrive\桌面\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.exe
+C:\Users\peddy\OneDrive\桌面\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.pdb
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\進勳(多線層)\SERVER(C#)CLIENT(Python)\SERVER\bin\Debug\SERVER.exe.config
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\進勳(多線層)\SERVER(C#)CLIENT(Python)\SERVER\bin\Debug\SERVER.exe
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\進勳(多線層)\SERVER(C#)CLIENT(Python)\SERVER\bin\Debug\SERVER.pdb
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\進勳(多線層)\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\進勳(多線層)\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.Form1.resources
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\進勳(多線層)\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.Properties.Resources.resources
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\進勳(多線層)\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.csproj.GenerateResource.cache
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\進勳(多線層)\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\進勳(多線層)\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.exe
+D:\晏\123456789\1_我的腦袋學過的東西\SOCKET\進勳(多線層)\SERVER(C#)CLIENT(Python)\SERVER\obj\Debug\SERVER.pdb
